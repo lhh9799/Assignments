@@ -1,0 +1,20 @@
+[Activity1]
+layout1 레이아웃을 Activity1 이라는 액티비티에 2개 만듦
+
+[Activity2]
+layout1 레이아웃을 Activity1 이라는 액티비티에 2개 만들고 버튼을 4개 추가함
+각 버튼은 layout1의 프로필 이미지를 변경함
+
+[Activity3]
+layout1.xml파일에서 카드뷰를 추가하여 activity_3.xml에 붙여넣고 버튼을 4개 추가함
+각 버튼은 이미지뷰의 프로필 이미지를 변경함
+
+[Activity4]
+activity4.xml에 리사이클러뷰를 추가함
+Activity4.java에서 리사이클러뷰를 findViewById()메소드를 사용하여 리니어아웃을 적용함
+PersonAdapter형의 adapter 객체를 생성하여 사람 객체 4개를 addItem()메소드를 사용하여 추가함
+
+[Activity5]
+activity5.xml에 리사이클러뷰를 추가함
+Activity5.java에서 리사이클러뷰를 findViewById()메소드를 사용하여 그리드레이아웃을 적용함
+PersonAdapter형의 adapter 객체를 생성하여 사람 객체 14개를 addItem()메소드를 사용하여 추가함
